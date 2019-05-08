@@ -112,4 +112,3 @@ if __name__ == '__main__':  # 主函数入口
     print('猜你喜欢')
     for re in Recommend:
         print(re, end=' ')
-
