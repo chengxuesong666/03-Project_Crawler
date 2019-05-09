@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
     <list default="true" id="1c971e92-3d39-485d-8cb3-2da7fcb1adc1" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/home_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/home_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
-=======
-    <list default="true" id="1c971e92-3d39-485d-8cb3-2da7fcb1adc1" name="Default Changelist" comment="" />
->>>>>>> 902438f04aca6c5d3344ddd607feca729f7b5788
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +16,6 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/maps/templates/address.html">
@@ -82,9 +77,6 @@
         </entry>
       </file>
     </leaf>
-=======
-    <leaf />
->>>>>>> 902438f04aca6c5d3344ddd607feca729f7b5788
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,10 +104,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/maps/models.py" />
-=======
->>>>>>> 902438f04aca6c5d3344ddd607feca729f7b5788
         <option value="$PROJECT_DIR$/home_project/settings.py" />
         <option value="$PROJECT_DIR$/home_project/urls.py" />
         <option value="$PROJECT_DIR$/maps/templates/map.html" />
@@ -123,7 +112,6 @@
         <option value="$PROJECT_DIR$/maps/info.csv" />
         <option value="$PROJECT_DIR$/maps/tengxun_eg.py" />
         <option value="$PROJECT_DIR$/maps/templates/addre.html" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/maps/views.py" />
         <option value="$PROJECT_DIR$/maps/urls.py" />
         <option value="$PROJECT_DIR$/maps/templates/address.html" />
@@ -131,18 +119,6 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-=======
-        <option value="$PROJECT_DIR$/maps/models.py" />
-        <option value="$PROJECT_DIR$/maps/views.py" />
-        <option value="$PROJECT_DIR$/maps/urls.py" />
-        <option value="$PROJECT_DIR$/maps/templates/address.html" />
-        <option value="$PROJECT_DIR$/maps/templates/index.html" />
-        <option value="$PROJECT_DIR$/爬美女/爬图片.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
->>>>>>> 902438f04aca6c5d3344ddd607feca729f7b5788
     <option name="y" value="28" />
     <option name="width" value="1362" />
     <option name="height" value="588" />
@@ -171,11 +147,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-=======
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../04-Project_Self/chapter04/orm_relationship_demo" />
->>>>>>> 902438f04aca6c5d3344ddd607feca729f7b5788
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -192,11 +164,7 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
   <component name="RunManager" selected="Python.urls">
-=======
-  <component name="RunManager" selected="Django server.home_project">
->>>>>>> 902438f04aca6c5d3344ddd607feca729f7b5788
     <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="home_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,17 +248,11 @@
       <workItem from="1556586686138" duration="45000" />
       <workItem from="1557017643091" duration="1342000" />
       <workItem from="1557111614916" duration="189000" />
-<<<<<<< HEAD
       <workItem from="1557312438050" duration="800000" />
-=======
-      <workItem from="1557329884419" duration="360000" />
-      <workItem from="1557352366537" duration="22000" />
->>>>>>> 902438f04aca6c5d3344ddd607feca729f7b5788
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
     <option name="totallyTimeSpent" value="80562000" />
   </component>
   <component name="ToolWindowManager">
@@ -298,23 +260,11 @@
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2097399" />
-=======
-    <option name="totallyTimeSpent" value="80144000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="67" y="25" width="868" height="893" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21532847" />
->>>>>>> 902438f04aca6c5d3344ddd607feca729f7b5788
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.3267974" />
-=======
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32589287" />
->>>>>>> 902438f04aca6c5d3344ddd607feca729f7b5788
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -322,13 +272,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-<<<<<<< HEAD
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32829374" />
-=======
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32924107" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32984293" />
->>>>>>> 902438f04aca6c5d3344ddd607feca729f7b5788
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -397,7 +342,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/maps/templates/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -422,40 +366,10 @@
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
-=======
-    <entry file="file://$PROJECT_DIR$/maps/templates/addre.html" />
-    <entry file="file://$PROJECT_DIR$/maps/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="e#23#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maps/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
->>>>>>> 902438f04aca6c5d3344ddd607feca729f7b5788
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/maps/static/css/nav.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -475,44 +389,9 @@
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#23#32#0" expanded="true" />
-=======
-    <entry file="file://$PROJECT_DIR$/maps/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maps/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬美女/爬图片.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
->>>>>>> 902438f04aca6c5d3344ddd607feca729f7b5788
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-=======
-    <entry file="file://$PROJECT_DIR$/maps/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maps/templates/address.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="234" selection-start-line="234" selection-end-line="234" />
-        </state>
-      </provider>
-    </entry>
->>>>>>> 902438f04aca6c5d3344ddd607feca729f7b5788
   </component>
 </project>
